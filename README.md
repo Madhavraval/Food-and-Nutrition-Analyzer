@@ -63,9 +63,3 @@ streamlit run app.py
 🍎 Total Estimated Calories: 800 kcal
 🥗 Health Suggestions: Consider adding a fresh salad for a balanced meal.
 ```
-
-📌 To-Do List
-- [ ] Enhance food identification accuracy.
-- [ ] Implement nutritional value breakdown (proteins, carbs, fats).
-- [ ] Add user authentication and meal tracking.
-
